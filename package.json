@@ -1,0 +1,21 @@
+{
+  "name": "jameel-noori-nastaliq-kasheeda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jameel-noori-nastaliq-kasheeda.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Jameel Noori Nastaliq Kasheeda",
+    "Urdu Fonts",
+    "Urdu Web Fonts",
+    "Jameel Noori Nastaleeq Kasheeda"
+  ],
+  "author": "Ubaidullah Ghazi",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gaazi/Jameel-Noori.git"
+  },
+  "license": "ISC"
+}
